@@ -33,6 +33,8 @@
   - spacy
   - python
 
+- [connpassの所属してるグループのイベントを３ヶ月分取得する](https://github.com/lll-lll-lll-lll/connpass_readme)
+  - Go
  
 # 参加したインターン
 - [データエンジニアカタパルト 2021 MVP](https://efc.fukuoka.jp/catapult2022/)
