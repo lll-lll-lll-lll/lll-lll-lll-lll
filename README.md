@@ -8,11 +8,12 @@
   
 ## 自作
 - [英文解釈の結果取得アプリ](https://github.com/lll-lll-lll-lll/inter-engja)
+  - Typescript
+  - Nextjs
+  - React
   - spacy
   - python
   - fastapi
-  - typescript
-  - React
   - sent-pattern
 
 
