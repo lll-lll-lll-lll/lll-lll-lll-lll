@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
   - Go
   - Python
-  - GCP
+  - GCP(ドキュメント読み始めたばっか...作成中アプリで使用する)
   
 ## 自作
 - [英文解釈の結果取得アプリ](https://github.com/lll-lll-lll-lll/inter-engja)
