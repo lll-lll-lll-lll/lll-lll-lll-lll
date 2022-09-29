@@ -34,7 +34,7 @@
   - spacy
   - python
 
-- [connpassの所属してるグループのイベントを３ヶ月分取得する](https://github.com/lll-lll-lll-lll/connpass_readme)
+- [connpassで所属してるグループのイベントを３ヶ月分取得する](https://github.com/lll-lll-lll-lll/connpass_readme)
   - Go
  
 # 参加したインターン
