@@ -6,7 +6,8 @@
   - Python
   - GCP(ドキュメント読み始めたばっか...作成中アプリで使用する)
   
-## 自作
+<details>
+<summary>自作</summary>
 - [英文解釈の結果取得アプリ](https://github.com/lll-lll-lll-lll/inter-engja)
   - Typescript
   - Nextjs
@@ -35,7 +36,8 @@
 
 - [connpassで所属してるグループのイベントを３ヶ月分取得する](https://github.com/lll-lll-lll-lll/connpass_readme)
   - Go
- 
+</details>
+
 # 参加したインターン
 - [データエンジニアカタパルト 2021 MVP](https://efc.fukuoka.jp/catapult2022/)
 - [Treasure 2022](https://techblog.cartaholdings.co.jp/entry/treasure2022-planning)
