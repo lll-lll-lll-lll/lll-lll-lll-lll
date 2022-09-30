@@ -40,6 +40,9 @@
   - Go
 </details>
 
+<details>
+<summary>その他</summary>
+
 # 参加したインターン
 - [データエンジニアカタパルト 2021 MVP](https://efc.fukuoka.jp/catapult2022/)
 - [Treasure 2022](https://techblog.cartaholdings.co.jp/entry/treasure2022-planning)
@@ -51,3 +54,5 @@
 
 # 作成中
 - [映画座席位置推薦システム](https://gist.github.com/lll-lll-lll-lll/129fe9e620459c3e9f7f307da61ed967)
+
+</details>
