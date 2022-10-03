@@ -29,7 +29,7 @@
 
 ## パッケージ
  
-- [vttの字幕ファイルの途中切れのテキストを一文にする](https://github.com/lll-lll-lll-lll/webvtt-reader)
+- [vtt字幕ファイルの途切れたテキストを一文にする](https://github.com/lll-lll-lll-lll/webvtt-reader)
   - Go
 
 - [sent-pattern](https://github.com/lll-lll-lll-lll/sent-pattern)
