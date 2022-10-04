@@ -49,7 +49,7 @@
 
 
 # その他
-- [FUKUOKA SMART CITY AWARD 2021 ファイナリスト](https://fukuoka.smartcity-community.jp/award/202107/)
+- [FUKUOKA SMART CITY AWARD 2021 ファイナリスト](https://www.atpress.ne.jp/news/285796)
 
 
 # 作成中
