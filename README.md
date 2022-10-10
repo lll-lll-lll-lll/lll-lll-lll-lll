@@ -35,9 +35,9 @@
 - [sent-pattern](https://github.com/lll-lll-lll-lll/sent-pattern)
   - spacy
   - python
+### その他ポートフォリオ
+[Github Portfolio](https://github.com/lll-lll-lll-lll?tab=repositories&q=portfolio&type=&language=&sort=)
 
-- [connpassで所属してるグループのイベントを３ヶ月分取得する](https://github.com/lll-lll-lll-lll/connpass_readme)
-  - Go
 </details>
 
 <details>
