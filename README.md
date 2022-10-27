@@ -53,6 +53,6 @@
 
 
 # 作成中
-- [映画座席位置推薦システム](https://gist.github.com/lll-lll-lll-lll/129fe9e620459c3e9f7f307da61ed967)
+- [映画座席位置推薦アプリ](https://github.com/lll-lll-lll-lll/movie-seat-app)
 
 </details>
