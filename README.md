@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning ...
   - Go
   - Python
-  - GCP(ドキュメント読み始めたばっか...作成中アプリで使用する)
+  - GCP
+  - 
   
 <details>
 <summary>自作</summary>
