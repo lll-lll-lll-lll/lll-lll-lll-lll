@@ -53,7 +53,5 @@
 - [FUKUOKA SMART CITY AWARD 2021 ファイナリスト](https://www.atpress.ne.jp/news/285796)
 
 
-# 作成中
-- [映画座席位置推薦アプリ](https://github.com/lll-lll-lll-lll/movie-seat-app)
 
 </details>
