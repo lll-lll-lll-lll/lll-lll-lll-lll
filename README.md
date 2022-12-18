@@ -11,7 +11,7 @@
 <summary>自作</summary>
   
   
-- [英文解釈の結果取得アプリ](https://github.com/lll-lll-lll-lll/inter-engja)
+- [英文解釈の結果取得アプリ](https://www.interengja.com/)
   - Typescript
   - Nextjs
   - spacy
