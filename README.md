@@ -20,13 +20,6 @@
   - sent-pattern
 
 
-- [データエンジニアカタパルトで作成したコード](https://github.com/lll-lll-lll-lll/hackathon-hasura-app)
-  - React
-  - Typescript
-  - Apollo Client
-  - Hasura
-  - PostgreSQL
- 
 
 ## パッケージ
  
