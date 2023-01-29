@@ -5,8 +5,10 @@
   - Go
   - Python
   - GCP
-  - 
-  
+
+
+### SNS
+- [zenn](https://zenn.dev/jordan)
 <details>
 <summary>自作</summary>
   
