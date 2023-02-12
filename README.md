@@ -9,6 +9,7 @@
 
 ### SNS
 - [zenn](https://zenn.dev/jordan)
+- [GitHub Portfolio](https://github.com/lll-lll-lll-lll?tab=repositories&q=portfolio&type=&language=&sort=)
 <details>
 <summary>自作</summary>
   
