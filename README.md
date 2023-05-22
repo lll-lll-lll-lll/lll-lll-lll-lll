@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
   - Go
   - Python
-  - GCP
+  - AWS
 
 
 ### SNS
