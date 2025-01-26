@@ -15,5 +15,4 @@ https://github.com/lll-lll-lll-lll/vtt-formatter
 #### たしかVIVANTを見てcliでOCRを使ったそれっぽいものを作ってみたくなったから
 https://github.com/lll-lll-lll-lll/vivantqr
 
-[PORTFOLIO](https://github.com/lll-lll-lll-lll?tab=repositories&q=portfolio&type=public&language=&sort=)
 
