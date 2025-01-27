@@ -9,7 +9,7 @@ https://github.com/lll-lll-lll-lll/sent-pattern
 #### Google Driveへのファイルのアップロードをcliでいい感じにまとめたくて作った気がする<br>
 https://github.com/lll-lll-lll-lll/g3drive
 
-#### 字幕ファイルが秒数単位で区切られて変な和訳されるのが嫌で文でまとめたくて作ったcli
+#### 字幕ファイルが秒数単位で区切られ、途中の文章を和訳されるのが嫌で文でまとめたくて作ったcli
 https://github.com/lll-lll-lll-lll/vtt-formatter
 
 #### たしかVIVANTを見てcliでOCRを使ったそれっぽいものを作ってみたくなったから
